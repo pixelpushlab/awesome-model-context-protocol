@@ -105,7 +105,7 @@ A single server bundling web search, file management, code execution, database a
 **Highlights:** Modular toggles · Multi-model support · Single install
 
 ```bash
-npx mcp360 install --all-modules
+npx -y @mcp360/universal-gateway
 ```
 
 [🔗 Repository](https://github.com/mcp360/unified-gateway-mcp)
@@ -514,7 +514,9 @@ We welcome contributions! To add an MCP server:
 
 - [ ] Repository is public and accessible
 - [ ] README with installation instructions exists
-- [ ] Server is listed in the correct category
+- [ ] Server is listed in the most relevant category
+- [ ] Server entry includes a short, accurate description
+- [ ] Repository link is valid and points to the official source
 - [ ] No duplicate entries
 - [ ] Actively maintained (commit in last 6 months)
 

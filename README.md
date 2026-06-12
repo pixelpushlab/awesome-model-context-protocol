@@ -224,7 +224,7 @@ Official Cloudflare server covering Workers, KV, R2, D1, DNS, Pages, and more. A
 | 💾 | [Databases & Storage](#-databases--storage) | 11 |
 | 🗃️ | [File Systems](#-file-systems) | 7 |
 | 🔧 | [Developer Tools](#-developer-tools) | 14 |
-| 📡 | [APIs & Integrations](#-apis--integrations) | 13 |
+| 📡 | [APIs & Integrations](#-apis--integrations) | 14 |
 | 🧠 | [AI & Memory](#-ai--memory) | 8 |
 | 📊 | [Data & Analytics](#-data--analytics) | 9 |
 | 🖥️ | [OS & System](#-os--system) | 7 |
@@ -340,6 +340,7 @@ Official Cloudflare server covering Workers, KV, R2, D1, DNS, Pages, and more. A
 | [**NASA MCP**](https://github.com/ProgramComputer/NASA-MCP-server) | NASA APOD, Mars Rover, Near-Earth Objects | TypeScript |
 | [**OpenAPI MCP**](https://github.com/snaggle-ai/openapi-mcp-server) | Auto-generate MCP tools from any OpenAPI spec | TypeScript |
 | [**Salesforce MCP**](https://github.com/salesforce/mcp-server-salesforce) | Official Salesforce CRM and SOQL queries | TypeScript |
+| [**Xquik MCP**](https://github.com/Xquik-dev/x-twitter-scraper) | X data platform with REST endpoints, MCP tools, extraction workflows, and webhooks | JavaScript |
 
 ---
 

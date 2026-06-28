@@ -337,6 +337,7 @@ Official Cloudflare server covering Workers, KV, R2, D1, DNS, Pages, and more. A
 | [**Zapier MCP**](https://github.com/zapier/zapier-mcp) | Trigger 5000+ Zapier automations | TypeScript |
 | [**OpenWeatherMap**](https://github.com/david-mcp/mcp-weather) | Real-time weather data and forecasts | Python |
 | [**Alpha Vantage**](https://github.com/calvernaz/alphavantage) | Stock market data and financial indicators | Python |
+| [**FilingFirehose**](https://filingfirehose.com/mcp) | Hosted SEC EDGAR — 8-K / 10-K / 10-Q / S-3 / 13D, forensic risk scoring, cyber-incident tracking on any US ticker | Hosted |
 | [**NASA MCP**](https://github.com/ProgramComputer/NASA-MCP-server) | NASA APOD, Mars Rover, Near-Earth Objects | TypeScript |
 | [**OpenAPI MCP**](https://github.com/snaggle-ai/openapi-mcp-server) | Auto-generate MCP tools from any OpenAPI spec | TypeScript |
 | [**Salesforce MCP**](https://github.com/salesforce/mcp-server-salesforce) | Official Salesforce CRM and SOQL queries | TypeScript |

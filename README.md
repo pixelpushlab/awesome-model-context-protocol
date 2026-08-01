@@ -229,7 +229,7 @@ Official Cloudflare server covering Workers, KV, R2, D1, DNS, Pages, and more. A
 | 📊 | [Data & Analytics](#-data--analytics) | 9 |
 | 🖥️ | [OS & System](#-os--system) | 7 |
 | 💬 | [Communication & Productivity](#-communication--productivity) | 12 |
-| 🎨 | [Media & Creative](#-media--creative) | 6 |
+| 🎨 | [Media & Creative](#-media--creative) | 7 |
 | ☁️ | [Cloud & DevOps](#-cloud--devops) | 9 |
 
 ---
@@ -427,6 +427,7 @@ Official Cloudflare server covering Workers, KV, R2, D1, DNS, Pages, and more. A
 | [**Cloudinary MCP**](https://github.com/cloudinary/mcp-server-cloudinary) | Official Cloudinary — media upload, transform, CDN delivery | TypeScript |
 | [**ElevenLabs MCP**](https://github.com/elevenlabs/elevenlabs-mcp) | Official ElevenLabs — lifelike text-to-speech generation | TypeScript |
 | [**Replicate MCP**](https://github.com/replicate/replicate-mcp) | Run any AI model on Replicate (images, video, audio) | TypeScript |
+| [**RunAPI MCP**](https://github.com/runapi-ai/mcp) | Create image, video, music/audio, text-to-speech, and other model API jobs | TypeScript |
 
 ---
 

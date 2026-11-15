@@ -340,6 +340,7 @@ Official Cloudflare server covering Workers, KV, R2, D1, DNS, Pages, and more. A
 | [**NASA MCP**](https://github.com/ProgramComputer/NASA-MCP-server) | NASA APOD, Mars Rover, Near-Earth Objects | TypeScript |
 | [**OpenAPI MCP**](https://github.com/snaggle-ai/openapi-mcp-server) | Auto-generate MCP tools from any OpenAPI spec | TypeScript |
 | [**Salesforce MCP**](https://github.com/salesforce/mcp-server-salesforce) | Official Salesforce CRM and SOQL queries | TypeScript |
+| [**No Stairs Please MCP**](https://nostairsplease.com/mcp) | Remote Streamable HTTP MCP server for searching live music venues, tour routes, and booking contacts | TypeScript |
 
 ---
 
